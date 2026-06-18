@@ -5,4 +5,4 @@ Lütfen oynamak istediğiniz istemciyi seçin:
 * [Eaglercraft - 1.8.8](Eaglercraft/index.html) (Orijinal ve temiz Eaglercraft Clienti. Herhangi bir ekleme içermez.)
 
 Tablet, Telefon oyuncuları için JS versiyonlar:
- Çok yakında...
+* [Eaglercraft 1.8.8](Eaglercraft/JS-Edition/index.html)
