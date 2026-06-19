@@ -10,7 +10,7 @@ Tablet, Telefon oyuncuları için JS versiyonlar:
 
 # English
 
-Please select the characters you want to play (for PC players only):
+Please select the client you want to play (for PC players only):
 
 * [PixelClient - 1.8.8](PixelClient/index.html) (Recommended)
 * [ResentClient - 1.8.8](ResentClient/index.html) (PvP Client, but Pixel Client was ported because it's more stable and still has PvP settings)
